@@ -1,3 +1,3 @@
 # Softuni javaScript basics
- Exercise from homeworks and exams in the current course.
+ Exercises from homeworks and exams in the current course.
 
